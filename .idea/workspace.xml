@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7941d817-73a9-48ec-995f-87066421c55e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../GoSDK" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1pwtqwGmOp74pvlbDrGa5Y8Wk3t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Go Test.go test apiProject">
+    <configuration name="go test apiProject" type="GoTestRunConfiguration" factoryName="Go Test" nameIsGenerated="true">
+      <module name="apiProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <envs>
+        <env name="APP_DB_USERNAME" value="postgres" />
+        <env name="APP_DB_PASSWORD" value="postgres" />
+        <env name="APP_DB_NAME" value="postgres" />
+      </envs>
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="apiProject" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="golangapi-postgres" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="imageTag" value="postgres:latest" />
+          <option name="command" value="" />
+          <option name="containerName" value="golangapi-postgres" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.golangapi-postgres" />
+      <item itemvalue="Go Test.go test apiProject" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.golangapi-postgres" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7941d817-73a9-48ec-995f-87066421c55e" name="Default Changelist" comment="" />
+      <created>1616106174364</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616106174364</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="56" key="#New_Docker_Connection" timestamp="1616109511768">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="410" y="56" key="#New_Docker_Connection/0.0.1280.689@0.0.1280.689" timestamp="1616109511768" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616356948214">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1616356948214" />
+    <state x="509" y="95" key="EnvironmentVariablesDialog" timestamp="1616356830156">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="509" y="95" key="EnvironmentVariablesDialog/0.0.1280.689@0.0.1280.689" timestamp="1616356830156" />
+    <state width="1237" height="196" key="GridCell.Tab.0.bottom" timestamp="1616648742390">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="196" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1616648742390" />
+    <state width="1237" height="196" key="GridCell.Tab.0.center" timestamp="1616648742389">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="196" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1616648742389" />
+    <state width="1237" height="196" key="GridCell.Tab.0.left" timestamp="1616648742389">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="196" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1616648742389" />
+    <state width="1237" height="196" key="GridCell.Tab.0.right" timestamp="1616648742390">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="196" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1616648742390" />
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1616648738756">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1616648738756" />
+    <state width="1237" height="208" key="GridCell.Tab.1.center" timestamp="1616648738755">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1616648738755" />
+    <state width="1237" height="208" key="GridCell.Tab.1.left" timestamp="1616648738755">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1616648738755" />
+    <state width="1237" height="208" key="GridCell.Tab.1.right" timestamp="1616648738756">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1616648738756" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1616109491064">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1616109491064" />
+    <state width="647" height="352" key="XDebugger.FullValuePopup" timestamp="1616648305121">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="647" height="352" key="XDebugger.FullValuePopup/0.0.1280.689@0.0.1280.689" timestamp="1616648305121" />
+    <state x="347" y="78" width="587" height="534" key="find.popup" timestamp="1616648240457">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="347" y="78" width="587" height="534" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1616648240457" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/main_test.go</url>
+          <line>99</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/model.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
